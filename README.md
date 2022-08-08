@@ -1,4 +1,4 @@
-- ola,eu sou a laryssa souza 
-- meu email e costa.laryssa@escola.pr.gov.br
+- ola,eu sou a **@laryssasouza** 
+- meu email de contato é laryssa867@gmail.com
 - eu estou enteressada em aprender a programar novas linguagens 
 - eu estou aprendendo a programar recente a linguagem de javaScript e scratch
