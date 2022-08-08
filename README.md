@@ -1,0 +1,4 @@
+- ola,eu sou a laryssa souza 
+- meu email e costa.laryssa@escola.pr.gov.br
+- eu estou enteressada em aprender a programar novas linguagens 
+- eu estou aprendendo a programar recente a linguagem de javaScript e scratch
